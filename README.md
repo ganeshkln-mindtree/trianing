@@ -1,2 +1,2 @@
 # trianing
-trainin
+
