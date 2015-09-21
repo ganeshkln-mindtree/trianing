@@ -1,2 +1,2 @@
 # trianing
-training1
+training
